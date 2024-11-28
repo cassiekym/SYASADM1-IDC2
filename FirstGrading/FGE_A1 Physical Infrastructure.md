@@ -1,19 +1,4 @@
-+-----------------------------+-----------------------------+----------+
-| ![](vertopal_d7cc2050ab     |                             |          |
-| 02463d85df31c9985bead1/medi |                             |          |
-| a/image1.png){width="2.4in" |                             |          |
-| hei                         |                             |          |
-| ght="0.5881944444444445in"} |                             |          |
-|                             |                             |          |
-| SCHOOL OF INFORMATION AND   |                             |          |
-| TECHNOLOGY                  |                             |          |
-+-----------------------------+-----------------------------+----------+
-| NAME: MERCADO, CASSIE KYM   | DATE PERFORMED: AUGUST 29,  |          |
-| M.                          | 2024                        |          |
-+-----------------------------+-----------------------------+----------+
-| Section: BSIT -- IDC2       | DATE SUBMITTED: AUGUST 29,  |          |
-|                             | 2024                        |          |
-+-----------------------------+-----------------------------+----------+
+![image](https://github.com/user-attachments/assets/b2e6b37a-3540-469c-8899-dc619f5ee587)
 
 # SYSADM1 -- Physical Infrastructure
 
