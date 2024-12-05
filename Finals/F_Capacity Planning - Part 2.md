@@ -96,8 +96,6 @@ Based on the traffic increase and system specifications, the following scalabili
 
    **Network Optimization:** By dynamically modifying the load distribution between ISPs, bandwidth management with dual ISPs can be adjusted to prevent network congestion during the anticipated spike in traffic. 
 
-   
-
 2. **Backup Edge Router**  
 
    **Hardware Upgrade:** By installing a backup edge router, network traffic will be redirected through the secondary device in the event that the original router fails, preventing complete connectivity loss.  
@@ -134,8 +132,10 @@ Based on the traffic increase and system specifications, the following scalabili
 
   **Network Optimization:** By adding extra servers, the network can manage heavier loads and guarantee that services are accessible even during periods of high traffic.
 
+
+
 **Proposed Design**
-A
+
 ![image](https://github.com/user-attachments/assets/e9867c3e-7680-4d04-9d10-513d6a90f931)
 
 **Network Design**
