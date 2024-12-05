@@ -94,7 +94,7 @@ D. **Load Balancing, Asynchronous Processing, and Stress Testing (Solution for R
      
    Justification: By preventing any server from becoming overloaded, load balancing enhances response speeds in general. The system can prioritize urgent tasks while postponing less critical ones due to asynchronous processing. Stress testing finds and fixes weak points in the system in advance, preparing it to withstand anticipated demands.
 
-3. **Discuss the pros and cons of each proposed solution by filling out the table below. **
+3. **Discuss the pros and cons of each proposed solution by filling out the table below.**
 
 | Proposed Solution | Pros | Cons | Cost | Complexity | Potential Impact on System Performance |
 | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -105,10 +105,4 @@ D. **Load Balancing, Asynchronous Processing, and Stress Testing (Solution for R
 
 Grading Rubric:
 
-| Criteria | Excellent | 10pts | Good | 7pts | Needs Improvement | 4pts |
-| ----- | :---- | :---- | :---- |
-| **Problem Identification**  | Accurately identifies the primary problem and provides a detailed explanation. | Identifies the main problem and provides a basic explanation. | Identifies a problem but lacks clarity or accuracy. |
-| **Solution Proposal**  | Proposes multiple relevant solutions and provides detailed explanations, including potential drawbacks and benefits. | Proposes one or two relevant solutions but lacks detailed explanation. | Proposes a solution but lacks feasibility or relevance. |
-| **Evaluation of Solutions**  | Provides a thorough evaluation of the proposed solutions, considering factors like cost, complexity, and potential impact. | Provides a basic evaluation of the proposed solutions, but lacks depth. | Does not evaluate the proposed solutions or provides a superficial evaluation. |
-| Score: |  |  |      /30 |
-
+![image](https://github.com/user-attachments/assets/200fc29b-9eb5-4ddf-957d-bb63433fcc78)
