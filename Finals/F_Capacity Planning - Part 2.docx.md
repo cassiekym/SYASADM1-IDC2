@@ -1,9 +1,4 @@
-
-
-|  SCHOOL OF INFORMATION AND TECHNOLOGY |  |  |
-| ----- | :---- | :---: |
-| NAME:  BARROGA, SHAIRA B. MERCADO, CASSIE KYM M. | DATE PERFORMED: DECEMBER 3, 2024  | /50  |
-| Section: BSIT – IDC2 | DATE SUBMITTED: DECEMBER 3, 2024 |  |
+![image](https://github.com/user-attachments/assets/fce9553a-e0d0-477f-95f4-74a5de7ed6f2)
 
 # **SYSADM1 – Capacity Management & Planning**
 
