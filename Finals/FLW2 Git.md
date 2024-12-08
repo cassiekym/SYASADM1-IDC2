@@ -1,11 +1,6 @@
+![image](https://github.com/user-attachments/assets/46c924d6-319a-4de2-8088-3b20b4287326)
 
-
-|  SCHOOL OF INFORMATION AND TECHNOLOGY |  |  |
-| ----- | :---- | :---: |
-| NAME: MERCADO, CASSIE KYM M. | DATE PERFORMED: NOVEMBER 21, 2024 |   |
-| Section: BSIT – IDC2 | DATE SUBMITTED: NOVEMBER 26, 2024 |  |
-
-1. # SYSADM1 – Git Basics
+# SYSADM1 – Git Basics
 
 Answer the following research questions about Git, GitLab desktop and GitHub.
 
@@ -17,35 +12,17 @@ Answer the following research questions about Git, GitLab desktop and GitHub.
 
    Git tracks changes and modifications made to a project by taking snapshots of the project files and keeping them in a repository. As the user edits their files, Git detects them as modified since the last commit. Once committed, Git keeps a record of the differences between the current version and the previous version by keeping a thorough and detailed history of the project's development and documenting the changes made.
 
-   
-
 3. What is the difference between a local repository and a remote repository in Git?
 
    A local repository contains all of the project files and version history that are kept on a developer's computer. On the other hand, a remote repository, which is hosted on a server or platform like GitHub and GitLab, is shared by multiple team members. Setting up a remote repository facilitates cooperation by enabling developers to exchange information and synchronize changes across regions. Since they are hosted on a local computer for a single user, this is not visible in a local repository.
 
-   
-
 4. What are the basic Git commands? 
 
-| Basic Git Commands |  |
-| :---: | ----- |
-| **Command** | **Description** |
-| git init | Used to create an empty Git repository. |
-| git add | Used after checking the status of the files, to add those files to the staging area. Before running the commit command, "git add" is used to add any new or modified files. |
-| git commit | Makes sure that the changes are saved to the local repository. |
-| git status | Tells the current state of the repository. |
-| git config | Used initially to configure the user.name and user.email. This specifies what email id and username will be used from a local repository. |
-| git branch | Used to determine what branch the local repository is on. Also enables adding and deleting a branch. |
-| git merge | Used to integrate the branches together. The command combines the changes from one branch to another branch. It is used to merge the changes in the staging branch to the stable branch. |
-| git clone | Used to create a local working copy of an existing remote repository |
-| git pull | Used to fetch and merge changes from the remote repository to the local repository. |
-| git push | Used to transfer the commits or pushing the content from the local repository to the remote repository. |
+![image](https://github.com/user-attachments/assets/e8d685e2-e108-4bbf-917c-fd69b3bed9b9)
 
 5. How do you check the status of a Git repository? 
 
    To check the status of a Git repository, use the ***git status*** command. This command allows us to see which files are not tracked by Git, which changes have been staged, and which have not.
-
-   
 
 6. What is the purpose of branches in Git, and how do you create and switch between them?
 
@@ -53,19 +30,13 @@ Answer the following research questions about Git, GitLab desktop and GitHub.
 
    To create a branch, use ***git branch \<branch-name\>.*** To switch between branches, use ***git checkout \<branch-name\>*** or ***git switch \<branch-name\>.***
 
-   
-
 7. What are GitLab Desktop and GitHub, and how are they different from Git?
 
    Git is a distributed version control system that manages project versions and tracks code changes locally on a developer's device. On the other hand, web-based platforms GitHub and GitLab host repositories and provide Git-based version control, project management, and collaboration tools. In contrast to Git, which is based on a Command Line Interface (CLI), GitHub and GitLab include built-in Graphical User Interface (GUI) support in addition to CLI support, which simplifies development processes and makes collaboration simpler.
 
-   
-
 8. How do you connect a local Git repository to a GitLab or GitHub repository?
 
    To connect a local Git repository to a GitLab or GitHub remote repository, use the ***git remote add origin \<repository-URL\> command***. This sets up the link between the local repository and the remote one hosted on GitLab or GitHub.
-
-   
 
 9. What are the steps to collaborate with others using GitLab or GitHub?
 
@@ -79,8 +50,6 @@ Answer the following research questions about Git, GitLab desktop and GitHub.
 * In the search field, start typing the name of person you want to invite, then click a name in the list of matches.  
 * Click Add NAME to REPOSITORY.  
 * The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.
-
-	
 
 10. How do you resolve merge conflicts in Git?
 
@@ -106,7 +75,7 @@ Best practices for writing commit messages are:
 * Mention bug fixes.  
 * Keep messages under 50 characters for the subject line and wrap text at 72 characters for the body.
 
-**REFERENCES**
+**REFERENCES:**
 
 Afreen, S. (2024). *All the Git commands you need to know about.* Retrieved from: https://www.simplilearn.com/tutorials/git-tutorial/git-commands
 
@@ -127,4 +96,3 @@ Kurata, D. (2023). *How to work with branches in Git.* Retrieved from: https://w
 Nulab. (n.d.). *Repositories.* Retrieved from: https://nulab.com/learn/software-development/git-tutorial/git-basics/repositories/\#:\~:text=A%20remote%20repository%20is%20hosted,machine%20for%20an%20individual%20user.
 
 Worsley, S. (2023). *What is Git? – The complete guide to Git.* Retrieved from: https://www.datacamp.com/blog/all-about-git
-
