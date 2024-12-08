@@ -62,7 +62,7 @@ Answer the following research questions about Git, GitLab desktop and GitHub.
 
 11. What is a pull request, and why is it used in GitHub?
 
-    	A pull request is a proposal to combine a collection of changes from one branch to another. Before integrating the suggested modifications in to the man codebase, contributors can examine and discuss the changes in a pull request.
+    A pull request is a proposal to combine a collection of changes from one branch to another. Before integrating the suggested modifications in to the man codebase, contributors can examine and discuss the changes in a pull request.
 
 12. What are some best practices for writing commit messages?
 
