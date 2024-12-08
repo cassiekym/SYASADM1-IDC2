@@ -1,50 +1,20 @@
 ![image](https://github.com/user-attachments/assets/b2e6b37a-3540-469c-8899-dc619f5ee587)
 
-# SYSADM1 -- Physical Infrastructure
+# SYSADM1 - Physical Infrastructure
 
-# Instructions:  {#instructions .list-paragraph}
+# Instructions:
 
 Answer the following questions based on Week 3 Lecture notes.
 
 1.  **Identify potential issues in physical infrastructure setups and
     propose solutions to optimize performance or reduce costs**
 
-  -----------------------------------------------------------------------
-  **Potential Issue**     **Solution**
-  ----------------------- -----------------------------------------------
-  Deteriorating Equipment To phase out obsolete hardware, maintain system
-                          performance, and ensure compatibility with
-                          newer technologies
-
-  Insufficient Capacity   Upgrade hardware components to manage larger
-                          loads and adopt scalable solutions like
-                          cloud-based services or modular architecture.
-
-  Insufficient Space      Make the best use of available physical space
-  Planning                by optimizing layout with space planning tools.
-                          This includes careful cable management,
-                          equipment placement, and future growth
-                          considerations.
-
-  Not Enough Cooling      To ensure optimal performance and avoid
-                          overheating, optimize cooling systems by
-                          utilizing precision cooling units, putting in
-                          place hot and cold aisle designs, and routinely
-                          maintaining air conditioning systems.
-
-  Poor Physical Security  To prevent unwanted access and physical damage,
-                          strengthen physical security measures with
-                          surveillance cameras, secure server rooms, and
-                          access controls.
-  -----------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/115f2a7d-93fc-4b1a-81bf-43261d166768)
 
 2.  **You are a project manager responsible for implementing a new
     infrastructure project, such as a smart city initiative or a digital
     transformation strategy.**
 
-```{=html}
-<!-- -->
-```
 A.  **What IT systems and technologies are necessary to support the
     project\'s objectives?**
 
