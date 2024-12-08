@@ -217,7 +217,9 @@ provided network topology diagram. Identify potential bottlenecks and areas wher
 
 ![image](https://github.com/user-attachments/assets/79ad7fdd-b4f9-4758-a4ee-52c8789a3f15)
 
-**Course Reflection**
+---
+
+# **Course Reflection**
 
 **What were your initial expectations for the course? Did the course meet, exceed, or fall short of these expectations?**
 
