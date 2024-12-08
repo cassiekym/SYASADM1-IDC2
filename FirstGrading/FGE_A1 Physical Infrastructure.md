@@ -2,8 +2,7 @@
 
 # SYSADM1 - Physical Infrastructure
 
-# Instructions:
-
+**Instructions:**
 Answer the following questions based on Week 3 Lecture notes.
 
 1.  **Identify potential issues in physical infrastructure setups and
